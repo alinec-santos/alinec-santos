@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alinec-santos/alinec-santos/output/snake.svg" alt="Snake animation" />
-
-###
