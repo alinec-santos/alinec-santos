@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="left">👩‍💻Minhas skills</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -27,11 +31,15 @@
 
 ###
 
-<p align="left">💡 Sobre mim:<br>Atualmente, curso Ciência da Computação na Universidade Federal de Viçosa. 💻<br>Sou técnica em Informática pela mesma instituição e estou sempre em busca de novos conhecimentos na área de desenvolvimento de software.🚀</p>
+<h3 align="left">💡 Sobre mim</h3>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">Atualmente, curso Ciência da Computação na Universidade Federal de Viçosa. 💻<br>Sou técnica em Informática pela mesma instituição e estou sempre em busca de novos conhecimentos na área de desenvolvimento de software.🚀</p>
+
+###
+
+<h3 align="left">📲 Contatos</h3>
 
 ###
 
@@ -43,11 +51,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alinec-santos/alinec-santos/output/snake.svg" alt="Snake animation" />
 
 ###
