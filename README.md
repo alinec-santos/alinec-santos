@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
+  <img height="150" src="[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://educacao.imaginie.com.br/wp-content/uploads/2020/12/Como-preparar-e-dar-aulas-online-mantendo-o-foco-dos-alunos.gif)"  />
 </div>
 
 ###
